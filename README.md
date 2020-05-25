@@ -7,7 +7,7 @@ Before running the code, put the translator at the same folder with the files to
 
 For translator from bench to verilog: please change the file name at line No.2 and No.84 to the file name you want to translate.
 
-For translator from bench to ckt658: please change the file name at line No.5 and No.193 to the file name you want to translate.
+For translator from bench to ckt658: call the bench2ckt658 function and pass circuit name into it.
 
 For translator from verilog to spice: please change the file name at line No.5 and No.42 to the file name you want to translate.
 
